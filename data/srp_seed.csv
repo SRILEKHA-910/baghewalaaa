@@ -1,0 +1,16 @@
+well_id,oil_viscosity_cp,pump_intake_pressure_psi,pump_speed_spm,stroke_length_m,motor_current_a,motor_power_kw,min_rod_load_kn,max_rod_load_kn,pump_fillage_pct,oil_rate_bpd,water_cut_pct,pump_efficiency_pct,status
+BGW_01,4200,520,3,2,32,18,20,48,95,220,15,88,Normal
+BGW_01,4600,510,3,2,33,19,21,50,93,210,16,86,Normal
+BGW_01,5100,495,3.5,2,36,21,22,54,90,195,17,83,Normal
+BGW_01,5700,480,3.5,2,39,23,24,58,87,180,18,80,Normal
+BGW_01,6400,465,4,2,43,26,26,63,82,160,19,76,Reduced Efficiency
+BGW_01,7200,450,4,2,47,29,28,68,78,140,20,71,Reduced Efficiency
+BGW_01,8100,435,4,2,52,33,30,74,72,115,22,65,High Load
+BGW_01,9200,420,4.5,2,57,38,34,82,66,90,23,58,High Load
+BGW_01,10500,400,4.5,2,63,44,38,92,60,65,25,50,Failure Risk
+BGW_01,11800,380,4.5,2,70,52,42,105,54,40,27,42,Failure Risk
+BGW_02,3900,540,3,2,30,17,19,45,96,230,14,90,Normal
+BGW_02,4400,525,3,2,32,18,20,48,94,215,15,88,Normal
+BGW_02,4900,510,3.5,2,35,20,22,52,91,200,16,85,Normal
+BGW_02,5500,495,3.5,2,38,22,23,56,88,185,17,82,Normal
+BGW_02,6200,480,4,2,42,25,25,61,84,165,18,78,Reduced Efficiency
